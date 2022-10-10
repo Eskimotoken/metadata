@@ -2,8 +2,8 @@
     "name": "Sol_Eskimo",
     "symbol": "SE",
     "description": "Sol_eskimo SFT is a reward for token holders",
-    "image": "<https://raw.githubusercontent.com/Eskimotoken/metadata/main/eskimo%20sft.png?ext=png>",
-    "animation_url": "<https://raw.githubusercontent.com/Eskimotoken/metadata/main/eskimo%20sft.png?ext=png>",
+    "image": "https://raw.githubusercontent.com/Eskimotoken/metadata/main/eskimo%20sft.png",
+    "animation_url": "https://raw.githubusercontent.com/Eskimotoken/metadata/main/eskimo%20sft.png",
     "external_url": "",
     "attributes": [
       
